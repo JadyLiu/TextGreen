@@ -1,11 +1,11 @@
 {
   "intents": [
     {
-      "intent": "TextGreenIntent",
+      "intent": "TextMeIntent",
       "slots": [
         {
-          "name": "Day",
-          "type": "LIST_OF_RESPONSES"
+          "name": "Message",
+          "type": "LITERAL"
         }
       ]
     },

@@ -1,2 +1,1 @@
-MyDayIsIntent {Day}
-MyDayIsIntent it was {Day}
+TextMeIntent send {How are you|Message}
