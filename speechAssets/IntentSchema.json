@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "TextGreenIntent",
+      "slots": [
+        {
+          "name": "Day",
+          "type": "LIST_OF_RESPONSES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
