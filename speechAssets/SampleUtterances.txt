@@ -1,1 +1,4 @@
-TextMeIntent send {How are you|Message}
+TextMeIntent message {Destination} {Text}
+TextMeIntent send {Destination} {Text}
+TextMeIntent send to {Destination} {Text}
+TextMeIntent send message to {Destination} {Text}

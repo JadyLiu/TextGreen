@@ -1,4 +1,2 @@
-LIST_OF_RESPONSES
-I miss you
-How are you today
-What are you doing
+LIST_OF_DESTINATIONS: JD | Love
+LIST_TEXT: I miss you | I am at home | What are we going to eat today
