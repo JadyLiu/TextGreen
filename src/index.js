@@ -193,7 +193,7 @@ function setMessageInSession(intent, session, callback) {
         // });
         // req.write('{"channel": "#aws-lambda", "username": "webhookbot", "text": "[via Alexa]: ' + message + '", "icon_emoji": ":ghost:"}');
         // req.end();
-    } else if ("love" === destination) {
+    } else if ("nicole" === destination) {
         number = "+61452377055";
         var params = {
            Message: 'Alexa helps JD send you a message: ' + text,
